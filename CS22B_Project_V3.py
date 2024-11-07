@@ -6,6 +6,8 @@ Created on Wed Nov  6 18:43:39 2024
 @author: deema
 """
 
+#made this comment
+
 class Student:
     def __init__(self, name, student_id):
         self.name = name
